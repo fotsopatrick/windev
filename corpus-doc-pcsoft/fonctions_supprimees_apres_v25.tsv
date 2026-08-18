@@ -1,0 +1,255 @@
+nom	id	theme	description_v25
+<btlePériphérique>.EtatConnexion	1000022202	BTLE (syntaxe objet)	Renvoie l'état actuel de la connexion avec un périphérique Bluetooth Low Energy ou demande à être prévenu en cas de changement de l'état de la connexi
+<Champ Html>.ExécuteJS	1000024372		
+<Connexion>.InfoBlocage	1000022774		
+<Fenêtre/Page>.DepuisFichier	1000021387	liaison (syntaxe objet)	Initialise automatiquement les champs d'une fenêtre ou d'une page avec :les valeurs des rubriques associées dans l'enregistrement en cours (chargé en 
+<Fenêtre/Page>.VersFichier	1000021385	liaison (syntaxe objet)	Initialise automatiquement :la valeur mémoire des rubriques d'un fichier de données avec la valeur des champs de la fenêtre ou de la page. Les rubriqu
+<Fenêtre/Page>.VersSource	1000021386	liaison (syntaxe objet)	Initialise automatiquement : la valeur mémoire des rubriques d'un fichier de données avec la valeur des champs de la fenêtre ou de la page.la valeur d
+<LecteurPDF>.Surligne	1000023545	gestion du champ Lecteur PDF (syntaxe objet)	Cherche un texte dans le document affiché par un champ Lecteur PDF et surligne les occurrences de ce texte dans le champ.
+<Variable>.Ajoute	1000024295	gestion des tableaux (syntaxe objet)	Ajoute un élément en dernière position : d'un tableau WLangage à une dimension. d'une propriété tableau d'un type avancé (tableau des événements de gg
+<Variable>.Insère	1000024296	gestion des tableaux (syntaxe objet)	Insère un élément à une position donnée : dans un tableau WLangage à une dimension. dans un tableau associatif. dans une propriété tableau d'un type a
+<Variable>.Supprime	1000024297	gestion des tableaux (syntaxe objet)	Supprime un élément à une position donnée : dans un tableau WLangage à une dimension. dans une propriété tableau d'un type avancé (tableau des événeme
+<Variable>.SupprimeTout	1000024298	gestion des tableaux (syntaxe objet)	Supprime tous les éléments : d'un tableau WLangage à une dimension ou deux dimensions. d'un tableau associatif. de la propriété tableau d'un type avan
+<Variable docElément>.ChangeAltitude	1000024413	gestion du champ Traitement de texte (syntaxe objet)	Modifie l'altitude d'un élément de type Image ou de type Zone de texte dans un document DocX.
+<Variable gglConnexion>.ListeAlbum	1000018564	gestion des albums Picasa (syntaxe objet)	Récupère la liste des albums "Google Picasa" disponibles pour l'utilisateur.
+<Variable gglConnexion>.ListeCommentaire	1000018566	gestion des albums Picasa (syntaxe objet)	Récupère :la liste des commentaires enregistrés pour le compte client Google.la liste des commentaires associés à une photo d'un album Google Picasa.
+<Variable gglConnexion>.ListePhoto	1000018567	gestion des albums Picasa (syntaxe objet)	Liste les photos des albums Google Picasa correspondant à certains critères.
+<Variable gglConnexion>.ListeTag	1000018568	gestion des albums Picasa (syntaxe objet)	Récupère :la liste des tags associés à un compte client Google.la liste des tags associés à un album Google Picasa.la liste des tags associés à une ph
+<Variable gglConnexion>.RécupèreAlbum	1000018569	gestion des albums Picasa (syntaxe objet)	Récupère un album Google Picasa.
+<Variable gglConnexion>.RemplitAlbum	1000018571	gestion des albums Picasa (syntaxe objet)	Récupère dans un album Google Picasa, les données correspondantes aux options demandées.
+<Variable gglConnexion>.RemplitPhoto	1000018570	gestion des albums Picasa (syntaxe objet)	Récupère dans un album Google Picasa, les données sur les photos correspondantes aux options demandées.
+<Variable Tableau>.AjouteLigne	1000024300	gestion des tableaux (syntaxe objet)	Ajoute une ligne à la fin : d'un tableau WLangage à une ou deux dimensions. d'une propriété tableau d'un type avancé à deux dimensions (xlsDocument, .
+<Variable Tableau>.AjouteTrié	1000024301	gestion des tableaux (syntaxe objet)	Ajoute un élément dans un tableau WLangage à une dimension en prenant en compte le critère de tri défini par la fonction <Variable Tableau>.Trie.
+<Variable Tableau>.Cherche	1000024302	gestion des tableaux (syntaxe objet)	Cherche l'indice d'un élément dans un tableau WLangage.
+<Variable Tableau>.ChercheParProcédure	1000024303	gestion des tableaux (syntaxe objet)	Recherche un élément dans un tableau WLangage à une dimension en utilisant une procédure de comparaison.
+<Variable Tableau>.Copie	1000024304	gestion des tableaux (syntaxe objet)	Copie le contenu d'un tableau dans un autre.
+<Variable Tableau>.Déplace	1000024305	gestion des tableaux (syntaxe objet)	Permet :de déplacer un élément dans un tableau WLangage à une dimension ou dans une propriété tableau d'un type avancé (tableau des événements de gglA
+<Variable Tableau>.DéplaceLigne	1000024306	gestion des tableaux (syntaxe objet)	Permet :soit de déplacer une ligne dans un tableau à deux dimensions ou dans une propriété tableau d'un type avancé. Les autres lignes du tableau sont
+<Variable Tableau>.EchangeLigne	1000024307	gestion des tableaux (syntaxe objet)	Permet d'échanger deux lignes dans un tableau à deux dimensions ou dans une propriété tableau d'un type avancé.
+<Variable Tableau>.Info	1000024308	gestion des tableaux (syntaxe objet)	Renvoie les caractéristiques d'un tableau : type des éléments, nombre de dimensions, dimensions, ...
+<Variable Tableau>.Insère	1000024309	gestion des tableaux (syntaxe objet)	Insère un élément à une position donnée :dans un tableau à une dimension.dans un tableau associatif.dans une propriété tableau d'un type avancé (table
+<Variable Tableau>.InsèreLigne	1000024310	gestion des tableaux (syntaxe objet)	Insère une ligne à une position donnée : dans un tableau WLangage à deux dimensions.dans une propriété tableau d'un type avancé à deux dimensions (xls
+<Variable Tableau>.Inverse	1000024311	gestion des tableaux (syntaxe objet)	Inverse le contenu d'un tableau à une dimension.
+<Variable Tableau>.Mélange	1000024312	gestion des tableaux (syntaxe objet)	Mélange les éléments d’un tableau WLangage.
+<Variable Tableau>.Occurrence	1000024313	gestion des tableaux (syntaxe objet)	Renvoie :soit le nombre d'éléments présents dans un tableau à une dimension.soit le nombre de lignes présentes dans un tableau à deux dimensions.soit 
+<Variable Tableau>.Supprime	1000024314	gestion des tableaux (syntaxe objet)	Supprime un élément à une position donnée :dans un tableau WLangage à une dimension.dans une propriété tableau d'un type avancé (tableau des événement
+<Variable Tableau>.SupprimeDoublon	1000024315	gestion des tableaux (syntaxe objet)	Supprime les doublons dans un tableau.
+<Variable Tableau>.SupprimeLigne	1000024316	gestion des tableaux (syntaxe objet)	Supprime une ligne à une position donnée : dans un tableau à deux dimensions. dans la propriété tableau d'un type avancé (tableau des événements de gg
+<Variable Tableau>.SupprimeTout	1000024317	gestion des tableaux (syntaxe objet)	Supprime tous les éléments :d'un tableau WLangage à une dimension ou deux dimensions.d'un tableau associatif.de la propriété tableau d'un type avancé 
+<Variable Tableau>.Trie	1000024318	gestion des tableaux (syntaxe objet)	Trie un tableau WLangage.
+<Variable Tableau/Liste>.Ajoute	1000024299	gestion des tableaux (syntaxe objet)	Ajoute un élément en dernière position :d'un tableau WLangage à une dimension.d'une propriété tableau d'un type avancé (tableau des événements de gglA
+<Zone répétée>.Cherche	1000023484	gestion des champs Zone répétée (syntaxe objet)	Recherche une valeur dans un attribut d'un champ Zone répétée.
+AgentAffiche	3016007	Agent	Affiche l'agent géré par l'application.
+AgentBeep	3016009	Agent	Émet un son.
+AgentCache	3016001	Agent	Cache un agent.
+AgentChoix	3016002	Agent	Affiche un message contenant un titre, une liste de choix, une icône et une combinaison de boutons.
+AgentConseil	3016003	Agent	Affiche un message contenant un texte, une icône et une combinaison de boutons.
+AgentCrée	3016017	Agent	Initialise un agent pour une application.
+AgentDéplace	3016004	Agent	Déplace et/ou redimensionne la fenêtre d'un agent.
+AgentHauteur	3016018	Agent	Renvoie la hauteur de la fenêtre d'un agent.
+AgentLargeur	3016014	Agent	Renvoie la largeur de la fenêtre d'un agent.
+AgentMessage	3016016	Agent	Affiche un message contenant un titre, un texte, une icône et une combinaison de boutons.
+AgentPosX	3016012	Agent	Renvoie la position horizontale de la fenêtre d'un agent.
+AgentPosY	3016010	Agent	Renvoie la position verticale de la fenêtre d'un agent.
+AgentSaisie	3016013	Agent	Affiche un message contenant un titre, un texte, une icône, une combinaison de boutons et une zone de saisie.
+AgentTermine	3016015	Agent	Supprime un agent de la mémoire.
+ArbreTri	3018021	Arbre	La fonction ArbreTri est conservée uniquement pour compatibilité.
+BinaireCharge	3044264	Hyper File compatibles	Charge un fichier binaire dans une rubrique de type mémo binaire 4.1 (initialise un mémo binaire avec le contenu d'un fichier).
+BinaireInfo	3044275	Hyper File compatibles	Permet de connaître les informations d'un mémo binaire 4.1 (type, nom, date, heure et taille du fichier d'origine).
+BinaireSauve	3044274	Hyper File compatibles	Sauve le contenu d'une rubrique mémo binaire 4.1 dans un fichier.
+cdbAjoute	3022001	manipulation d'une base CEDB	Ajoute l'enregistrement présent en mémoire dans un fichier de données (base de données standard du Terminal Mobile ou de type ".CDB").
+cdbAnnuleRecherche	3022010	manipulation d'une base CEDB	Annule le critère de recherche en cours (base de données standard du Terminal Mobile ou de type ".CDB").
+cdbCol	3022002	manipulation d'une base CEDB	Renvoie une caractéristique d'une colonne de l'enregistrement en cours (valeur, type, identifiant ou nom) dans une base de données standard du Termina
+cdbDateHeureVersEntier	3022014	manipulation d'une base CEDB	Transforme une variable de type DateHeure en une valeur compatible avec une colonne de type date et heure (entier sans signe sur 8 octets).
+cdbEcritCol	3022003	manipulation d'une base CEDB	Modifie la valeur d'une colonne d'un enregistrement en mémoire.
+cdbEnDehors	3022011	manipulation d'une base CEDB	Permet de savoir si l'enregistrement sur lequel on veut se positionner est en dehors du fichier.
+cdbEntierVersDateHeure	3022006	manipulation d'une base CEDB	Transforme la valeur d'une colonne de type date et heure (entier sans signe sur 8 octets) en une variable de type DateHeure.
+cdbFerme	3022007	manipulation d'une base CEDB	Ferme une base de données (fichier ".CDB") préalablement ouverte avec la fonction cdbOuvre.
+cdbListeFichier	3022005	manipulation d'une base CEDB	Renvoie la liste des fichiers de données présents dans une base de données CEDB.
+cdbLit	3022004	manipulation d'une base CEDB	Lit un enregistrement dans un fichier en fonction d'un numéro d'enregistrement donné.
+cdbLitDernier	3022009	manipulation d'une base CEDB	Positionne sur le dernier enregistrement d'un fichier et lit cet enregistrement.
+cdbLitPrécédent	3022022	manipulation d'une base CEDB	Positionne sur l'enregistrement précédent d'un fichier et lit cet enregistrement.
+cdbLitPremier	3022019	manipulation d'une base CEDB	Positionne sur le premier enregistrement d'un fichier et lit cet enregistrement.
+cdbLitRecherche	3022018	manipulation d'une base CEDB	Positionne sur le premier enregistrement d'un fichier de données dont la valeur d'une colonne spécifique est égale à une valeur recherchée (recherche 
+cdbLitSuivant	3022016	manipulation d'une base CEDB	Positionne sur l'enregistrement suivant d'un fichier et lit cet enregistrement.
+cdbModifie	3022017	manipulation d'une base CEDB	Modifie l'enregistrement spécifié ou l'enregistrement présent en mémoire dans le fichier de données.
+cdbNbCol	3022015	manipulation d'une base CEDB	Renvoie le nombre de colonnes de l'enregistrement en mémoire.
+cdbNbEnr	3022023	manipulation d'une base CEDB	Renvoie le nombre d'enregistrements présents dans un fichier de données.
+cdbNumEnr	3022020	manipulation d'une base CEDB	Renvoie le numéro de l'enregistrement en cours dans un fichier de données.
+cdbOuvre	3022013	manipulation d'une base CEDB	Ouvre une base de données (fichier ".CDB") sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+cdbRAZ	3022021	manipulation d'une base CEDB	Ré-initialise toutes les variables d'une des structures des bases de données standard du Terminal Mobile (Pocket PC).
+cdbSupprime	3022008	manipulation d'une base CEDB	Supprime l'enregistrement en cours ou l'enregistrement spécifié dans le fichier de données.
+cdbTrouve	3022012	manipulation d'une base CEDB	Vérifie si l'enregistrement en cours correspond à la recherche en cours.
+ceConnecte	3023001	accès aux Terminaux Mobiles (Pocket PC)	Connecte le poste en cours à un Terminal Mobile (Pocket PC).
+ceCopieFichier	3023010	accès aux Terminaux Mobiles (Pocket PC)	Copie un ou plusieurs fichiers :présents sur le poste en cours vers le Terminal Mobile (Pocket PC) connecté.présents sur le Terminal Mobile (Pocket PC
+ceCréeRaccourci	3023034	accès aux Terminaux Mobiles (Pocket PC)	Crée un raccourci sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceDateFichier	3023002	accès aux Terminaux Mobiles (Pocket PC)	Renvoie ou modifie les différentes dates d'un fichier (date de création, de modification ou d'accès).
+ceDéconnecte	3023012	accès aux Terminaux Mobiles (Pocket PC)	Ferme la connexion entre le poste en cours et le Terminal Mobile (Pocket PC).
+ceEtatAlimentation	3023006	accès aux Terminaux Mobiles (Pocket PC)	Permet de connaître diverses informations sur la batterie (principale ou de secours) du Terminal Mobile (Pocket PC).
+ceEtatConnexion	3023023	accès aux Terminaux Mobiles (Pocket PC)	Permet de connaître l'état de la connexion entre le poste en cours et un Terminal Mobile (Pocket PC).
+ceFenEnumère	3023007	gestion des fenêtres	Permet d'énumérer les fenêtres Windows actuellement ouvertes sur le Terminal Mobile (Pocket PC).
+ceFenTitre	3023005	gestion des fenêtres	Renvoie le titre de la fenêtre Windows spécifiée.
+ceFichierExiste	3023008	accès aux Terminaux Mobiles (Pocket PC)	Teste l'existence d'un fichier présent sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceHeureFichier	3023009	accès aux Terminaux Mobiles (Pocket PC)	Renvoie ou modifie les différentes heures d'un fichier (heure de création, de modification ou d'accès). Ce fichier est présent sur le Terminal Mobile 
+ceInfoOEM	3023051	accès aux Terminaux Mobiles (Pocket PC)	Renvoie les informations OEM du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceLanceAppli	3023003	accès aux Terminaux Mobiles (Pocket PC)	Lance l'exécution d'un programme (exécutable par exemple) depuis l'application en cours. Le programme est exécuté sur le Terminal Mobile (Pocket PC).
+ceListeFichier	3023018	accès aux Terminaux Mobiles (Pocket PC)	Liste les fichiers d'un répertoire (et de ses sous-répertoires) et retourne le nombre de fichiers listés. Le répertoire manipulé est présent sur le Te
+ceNomMachine	3023052	accès aux Terminaux Mobiles (Pocket PC)	Renvoie le nom du Terminal Mobile (Pocket PC).
+cePlateforme	3023053	accès aux Terminaux Mobiles (Pocket PC)	Renvoie le nom de la plateforme du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreCléSuivante	3023021	accès aux Terminaux Mobiles (Pocket PC)	Identifie la clé suivant la clé spécifiée dans la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreCréeClé	3023024	accès aux Terminaux Mobiles (Pocket PC)	Crée une clé dans la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreEcrit	3023014	accès aux Terminaux Mobiles (Pocket PC)	Écrit une valeur dans un registre de la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreExiste	3023015	accès aux Terminaux Mobiles (Pocket PC)	Teste l'existence d'une clé de la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreListeValeur	3023016	accès aux Terminaux Mobiles (Pocket PC)	Renvoie le nom et éventuellement le type des valeurs d'une clé de la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreLit	3023022	accès aux Terminaux Mobiles (Pocket PC)	Lit la valeur d'un registre dans la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistrePremièreSousClé	3023017	accès aux Terminaux Mobiles (Pocket PC)	Identifie la clé suivant la clé spécifiée dans la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreSousClé	3023011	accès aux Terminaux Mobiles (Pocket PC)	Identifie le chemin de la Nième sous-clé spécifiée dans la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreSupprimeClé	3023013	accès aux Terminaux Mobiles (Pocket PC)	Supprime une sous-clé dans la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRegistreSupprimeValeur	3023020	accès aux Terminaux Mobiles (Pocket PC)	Supprime une valeur dans la base de registre du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRep	3023004	accès aux Terminaux Mobiles (Pocket PC)	Recherche un fichier ou un répertoire sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRepCrée	3023019	accès aux Terminaux Mobiles (Pocket PC)	Crée un répertoire sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceRepSupprime	3023032	accès aux Terminaux Mobiles (Pocket PC)	Supprime un répertoire présent sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceSupprimeFichier	3023037	accès aux Terminaux Mobiles (Pocket PC)	Supprime un fichier présent sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceSupprimeRaccourci	3023033	accès aux Terminaux Mobiles (Pocket PC)	Supprime un raccourci précédemment créé avec la fonction ceCréeRaccourci.
+ceSysRep	3023031	accès aux Terminaux Mobiles (Pocket PC)	Renvoie le chemin d'un répertoire du système du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceTailleFichier	3023038	accès aux Terminaux Mobiles (Pocket PC)	Renvoie la taille (en octets) d'un fichier présent sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceTypeProcesseur	3023040	accès aux Terminaux Mobiles (Pocket PC)	Renvoie le type de processeur du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceVersionWindows	3023042	accès aux Terminaux Mobiles (Pocket PC)	Renvoie des informations sur la version de Windows utilisée sur le Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceXRes	3023041	accès aux Terminaux Mobiles (Pocket PC)	Renvoie la résolution horizontale de l'écran du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ceYRes	3023044	accès aux Terminaux Mobiles (Pocket PC)	Renvoie la résolution verticale de l'écran du Terminal Mobile (Pocket PC) connecté au poste en cours.
+ChaîneVersPalm	3059009	Palm Pilot	Transmet une chaîne de caractères vers la base de données "Bloc-Notes" du PALM.
+ClavierListe	3071001	gestion du clavier du Terminal Mobile (Pocket PC)	Renvoie la liste des types de claviers disponibles sur le Terminal Mobile (Pocket PC).
+ClavierMode	3071005	gestion du clavier du Terminal Mobile (Pocket PC)	Permet de :connaître le clavier en cours d'utilisation.changer le clavier en cours d'utilisation.
+EnModePocket	3013024	diverses WINDEV	Identifie si le code est exécuté :depuis une application WINDEV Mobile.depuis une application WINDEV standard, depuis un site WEBDEV ou depuis une app
+FenBoutonSystème	3038024	gestion des fenêtres	Modifie le type du bouton système affiché dans la barre de titre d'une fenêtre.
+FichierVersPalm	3059002	Palm Pilot	Transmet l'enregistrement en cours d'un fichier de données HyperFileSQL sous forme de mémo vers la base de données Bloc-Notes du Palm Pilot.
+fRepCrée_55	3036005	gestion des fichiers externes	La fonction fRepCrée_55 est conservée uniquement pour compatibilité.
+fRepDroit	3036003	gestion des fichiers externes	La fonction fRepDroit est conservée uniquement pour compatibilité.
+GadgetAfficheFlyout	1000017218	gestion des gadgets Vista	Affiche une page du gadget Vista.
+GadgetChargeParamètre	1000017220	gestion des gadgets Vista	Charge une valeur persistante dans un gadget.
+GadgetFermeFlyout	1000017219	gestion des gadgets Vista	Ferme la popup de détails dans un gadget Vista.
+GadgetSauveParamètre	1000017221	gestion des gadgets Vista	Sauve une valeur persistante dans un gadget.
+gglAdWEcritCritèreExcluCampagne	1000017703	Google AdWords	Supprime tous les critères exclus définis pour une campagne Google AdWords et écrit les nouveaux critères exclus pour cette campagne.
+gglAdWEstDiffusionOptimisée	1000017382	Google AdWords	Permet de savoir si la campagne Google AdWords spécifiée utilise le mode de diffusion optimisé.
+GglAdWEstimeCampagne	1000018269	Google AdWords	Renvoie l'estimation du trafic généré par un ensemble de campagnes publicitaires Google AdWords.
+GglAdWEstimeGroupeAnnonce	1000018270	Google AdWords	Renvoie l'estimation du trafic généré par un ensemble de groupes d'annonces publicitaires Google AdWords
+GglAdWEstimeMotClé	1000018271	Google AdWords	Renvoie l'estimation du trafic généré par un ensemble de mots-clés Google AdWords
+GglAdWListeAlerteMCC	1000017685	gestion des comptes AdWords	Récupère la liste des alertes du Centre multicompte (appelé également My Client Center) pour tous les comptes dépendant du compte AdWords courant.
+GglAdWListeAnnonce	1000017644	Google AdWords	Récupère la liste des annonces d'un ensemble de groupes d'annonces.
+GglAdWListeAnnonceActive	1000017643	Google AdWords	Récupère la liste des annonces actives d'un ensemble de groupes d'annonces
+GglAdWListeCampagne	1000017533	Google AdWords	Liste les campagnes publicitaires Google AdWords du compte connecté
+GglAdWListeCompteClient	1000017684	gestion des comptes AdWords	Récupère la liste des adresses email principales de chaque compte géré par le Centre multicompte.
+GglAdWListeCritère	1000017700	Google AdWords	Liste les critères associés à un groupe d'annonces publicitaires Google AdWords. Ces critères peuvent être des critères de type "Mot-clé" ou des critè
+GglAdWListeCritèreExclu	1000017701	Google AdWords	Liste les critères qui ont été exclus d'une campagne publicitaire Google AdWords.
+GglAdWListeEligibilitéOptimConversion	1000017383	Google AdWords	Permet de savoir si des campagnes Google AdWords sont éligibles à l'utilisation de l'optimiseur de conversion
+GglAdWListeEntreprise	1000017642	Google AdWords	Récupère la liste des entreprises correspondant aux critères demandés et présentes dans la base de données Google "Local Business Center".
+GglAdWListeGroupeActif	1000018299	Google AdWords	Liste les groupes d'annonces actifs d'une campagne publicitaire Google AdWords. Les informations concernant ces groupes d'annonces sont également récu
+GglAdWListeGroupeAnnonce	1000018300	Google AdWords	Récupère les données d'un ensemble de groupes d'annonces publicitaires Google AdWords.
+GglAdWListeInfoCompteClient	1000017683	gestion des comptes AdWords	Récupère les caractéristiques des différents comptes du Centre multicompte (appelé également My Client Center).
+GglAdWListeRequêteRapport	1000018272	Google AdWords	Récupère la liste des rapports Google AdWords effectués par le compte connecté
+GglAdWListeSiteParCatégorie	1000018276	Google AdWords	Récupère des suggestions de sites par catégorie
+GglAdWListeSiteParDémographie	1000018277	Google AdWords	Liste les suggestions de sites Web correspondant aux critères démographiques spécifiés. Il sera ensuite possible de positionner les annonces Google Ad
+GglAdWListeSiteParSujet	1000018278	Google AdWords	Liste les suggestions de sites Web correspondant aux sujets spécifiés. Il sera ensuite possible de positionner les annonces Google AdWords sur ces sit
+GglAdWListeSiteParURL	1000018279	Google AdWords	Liste les suggestions de sites Web correspondant aux URL spécifiées. Il sera ensuite possible de positionner les annonces Google AdWords sur ces sites
+GglAdWListeStatistiqueAnnonce	1000017645	Google AdWords	Récupère la liste des statistiques liées à un ensemble d'annonces publicitaires Google AdWords.
+GglAdWListeStatistiqueCampagne	1000017381	Google AdWords	Récupère les statistiques existantes sur un ensemble de campagnes publicitaires Google AdWords.
+GglAdWListeStatistiqueCritère	1000017702	Google AdWords	Récupère les statistiques relatives un ensemble de critères liés à un groupe d'annonces publicitaires Google AdWords.
+GglAdWListeStatistiqueGroupe	1000018301	Google AdWords	Récupère les statistiques existantes sur un ensemble de groupes d'annonces publicitaires Google AdWords.
+GglAdWListeVidéo	1000017687	Google AdWords	Récupère la liste des vidéos disponibles sur le compte utilisateur Google AdWords.
+GglAdWModifieDiffusionOptimisée	1000017384	Google AdWords	Active ou non l'utilisation de la diffusion optimisée d'une campagne publicitaire Google AdWords.
+GglAdWPlanifieRequêteRapport	1000018274	Google AdWords	Planifie l'exécution d'un rapport Google AdWords par le service "Google AdWords Report Service".
+GglAdWRécupèreAnnonce	1000017606	Google AdWords	Récupère les caractéristiques d'une annonce publicitaire Google AdWords.
+GglAdWRécupèreCampagne	1000017379	Google AdWords	Récupère une campagne publicitaire Google AdWords à partir de son identifiant.
+GglAdWRécupèreCoûtMéthode	1000017712	service "InfoService"	Récupère le coût d'exécution d'une méthode API de Google AdWords.
+GglAdWRécupèreGroupeAnnonce	1000018305	Google AdWords	Récupère les données d'un groupe d'annonces publicitaires Google AdWords.
+GglAdWRécupèreInfoCompte	1000017682	gestion des comptes AdWords	Récupère les informations concernant un compte AdWords.
+GglAdWRécupèreMotCléDepuisSite	1000018275	Google AdWords	Récupère des suggestions de mots-clés liées au contenu d'une page Web. Cette fonction utilise le générateur de mots-clés de Google AdWords.
+GglAdWRécupèreNbOpération	1000017713	service "InfoService"	Renvoie le nombre d'opérations effectuées par l'utilisateur pendant la période spécifiée.
+GglAdWRécupèreNbUnité	1000017719	service "InfoService"	Renvoie le nombre d'unités API utilisées par l'utilisateur pendant la période spécifiée.
+GglAdWRécupèreNbUnitéDispoMoisCourant	1000017721	service "InfoService"	Renvoie le nombre total d'unités API disponibles pour le mois courant pour l'utilisateur spécifié.
+GglAdWRécupèreNbUnitéGratuiteMoisCourant	1000017711	service "InfoService"	Renvoie le nombre d'unités API gratuites disponibles sur le mois courant.
+GglAdWRécupèreNbUnitéParClient	1000017720	service "InfoService"	Renvoie le nombre d'unités API utilisées par chaque client du compte multicompte Google AdWords pendant la période spécifiée.
+GglAdWRécupèreNbUnitéPourMéthode	1000017714	service "InfoService"	Renvoie le nombre d'unités API utilisées lors de l'appel d'une méthode spécifique de l'API Google AdWords.
+GglAdWRécupèreStatutRequêteRaport	1000018273	Google AdWords	Récupère l'état de l'édition d'un rapport Google AdWords
+GglAdWRécupèreURLRapport	1000018280	Google AdWords	Renvoie l'URL permettant de télécharger le rapport Google AdWords spécifié
+GglAdWRécupèreURLRapportGZip	1000018281	Google AdWords	Renvoie l'URL permettant de télécharger le rapport Google AdWords spécifié, compressé au format GZip
+GglAdWRécupèreVariationMotClé	1000018282	Google AdWords	Récupère les suggestions pour les mots-clés spécifiés. Il est possible de récupérer également les synonymes. Cette fonctionnalité utilise le générateu
+GglAdWRemplaceCritèreExclu	1000018302	Google AdWords	Remplace les critères exclus d'une campagne publicitaire Google AdWords. Les données précédentes sont effacées et remplacées par les nouvelles données
+GglAdWSupprimeRapport	1000018283	Google AdWords	Supprime un rapport Google AdWords (sa description et si nécessaire le rapport généré). Il est possible de supprimer un rapport en attente mais il est
+GglAdWValideRequêteRapport	1000018284	Google AdWords	Valide la description d'un rapport Google AdWords
+GglAdWVérifieAnnonce	1000017704	Google AdWords	Vérifie la validité d'un ensemble d'annonces publicitaires Google AdWords. Cette fonction vérifie que les annonces soient conformes aux conditions d'u
+GglAdWVérifieCritère	1000017699	Google AdWords	Vérifie la validité d'un ensemble de critères.
+GglAdWVérifieTraficMotClé	1000018285	Google AdWords	Vérifie si les mots-clés spécifiés génèreront du trafic.
+GglListeAlbum	1000017370	gestion des albums Picasa	Récupère la liste des albums "Google Picasa" disponibles pour l'utilisateur.
+GglListeCommentaire	1000018389	gestion des albums Picasa	Récupère :la liste des commentaires enregistrés pour le compte client Google.la liste des commentaires associés à une photo d'un album Google Picasa.
+GglListePhoto	1000018385	gestion des albums Picasa	Liste les photos des albums Google Picasa correspondant à certains critères.
+GglListeTag	1000017403	gestion des albums Picasa	Récupère :la liste des tags associés à un compte client Google.la liste des tags associés à un album Google Picasa.la liste des tags associés à une ph
+GglRécupèreAlbum	1000018379	gestion des albums Picasa	Récupère un album Google Picasa.
+GglRemplitAlbum	1000017371	gestion des albums Picasa	Récupère dans un album Google Picasa, les données correspondantes aux options demandées.
+GglRemplitPhoto	1000018380	gestion des albums Picasa	Récupère dans un album Google Picasa, les données sur les photos correspondantes aux options demandées.
+HAlias_55	3044220	Hyper File compatibles	Crée un alias d'un fichier logique ou annuler tous les alias d'un fichier logique.
+HAliasExterne	3044226	Hyper File compatibles	Charge la description de fichiers Hyper File contenue dans une analyse externe à l'application sans fermer l'analyse en cours.
+HAssigne	3044245	Hyper File compatibles	Modifie le chemin d'accès d'un fichier.
+HConnecteAccèsDistant	3044257	HFSQL	Ouvre une analyse au format HFSQL Classic via un accès distant (cette fonction est équivalente à la seconde syntaxe de la fonction HOuvreAnalyse).
+HCopieEnreg_55	3044238	Hyper File compatibles	Copie l'enregistrement en cours d'un fichier dans l'enregistrement en cours d'un autre fichier ayant la même structure.
+HCréeVue_55	3044239	Hyper File compatibles	Crée une vue sur un fichier Hyper File.
+HCS.TailleTrame	3044364		
+HDébutVerrou	3044240	Hyper File compatibles	Marque le début du verrouillage de lecture des fichiers.
+HDécritClé	3044241	Hyper File compatibles	Décrit une clé simple ou composée dans un fichier temporaire au format Hyper File.
+HDécritTrigger_55	3044242	Hyper File compatibles	Ajoute ou modifie un trigger sur Hyper File.
+HDéjàBloque	3044243	Hyper File compatibles	Teste si la dernière opération WINDEV a pu être exécutée ou non.
+HDoublon	3044237	Hyper File compatibles	Teste l'unicité d'une clé.
+HFinVerrou	3044235	Hyper File compatibles	Marque la fin du verrouillage des fichiers.
+HGèreAccèsDistant	3044056	HFSQL	Débranche temporairement l'accès distant pour accéder à des fichiers de données HFSQL Classic présents en local.
+HImporteTexte_55	3044228	Hyper File compatibles	Importe un fichier texte dans un fichier Hyper File.
+HInfoGéné	3044227	Hyper File compatibles	Retourne les informations générales sur un fichier Hyper File.
+HInfoRubrique	3044212	Hyper File compatibles	Permet d'obtenir des informations sur une rubrique de l'analyse.
+HLitBloque	3044218	Hyper File compatibles	Lit et bloque un enregistrement en fonction du numéro d'enregistrement spécifié.
+HLitDernierBloque	3044213	Hyper File compatibles	Lit et bloque le dernier enregistrement du fichier selon la clé passée en paramètre.
+HLitDernierSansBloquer	3044222	Hyper File compatibles	Lit le dernier enregistrement du fichier selon la clé passée en paramètre. Si le fichier est verrouillé, l'enregistrement lu n'est pas bloqué.
+HLitPrécédentBloque	3044223	Hyper File compatibles	Lit et bloque l'enregistrement précédent selon la clé spécifiée.
+HLitPrécédentSansBloquer	3044224	Hyper File compatibles	Lit l'enregistrement précédent selon la clé spécifiée. Si le fichier est verrouillé, l'enregistrement lu n'est pas bloqué
+HLitPremierBloque	3044221	Hyper File compatibles	Lit et bloque le premier enregistrement du fichier relativement à la clé spécifiée.
+HLitPremierSansBloquer	3044219	Hyper File compatibles	Lit le premier enregistrement selon la clé spécifiée. Si le fichier est verrouillé, l'enregistrement lu n'est pas bloqué.
+HLitRechercheBloque	3044217	Hyper File compatibles	Lit et bloque le premier enregistrement dont la valeur de la clé donnée est égale ou supérieure à la valeur de l'argument de recherche.
+HLitRechercheSansBloquer	3044216	Hyper File compatibles	Lit le premier enregistrement dont la valeur de la clé donnée est égale ou supérieure à la valeur de l'argument de recherche. Si le fichier est verrou
+HLitSansBloquer	3044215	Hyper File compatibles	Lit l'enregistrement en fonction du numéro d'enregistrement spécifié. Si le fichier est verrouillé, l'enregistrement lu n'est pas bloqué.
+HLitSuivantBloque	3044214	Hyper File compatibles	Lit et bloque l'enregistrement suivant selon la clé spécifiée.
+HLitSuivantSansBloquer	3044278	Hyper File compatibles	Lit l'enregistrement suivant selon la clé spécifiée. Si le fichier est verrouillé, l'enregistrement lu n'est pas bloqué.
+HRéindexe_55	3044251	Hyper File compatibles	Réindexe d'un fichier Hyper File de l'analyse en cours.
+HSubstNom	3044169	Hyper File compatibles	Modifie le nom (physique) d'un fichier de données.
+HVueVersTable	3044252	Hyper File compatibles	Remplit une table mémoire avec une vue.
+MagnetoEvénement	1000014003	Magneto	Permet d'associer une touche au lancement du magnétophone du Terminal Mobile (Pocket PC) et de spécifier une procédure à appeler en fin d'enregistreme
+MagnetoFinEvénement	1000014004	Magneto	Supprime les associations établies par la fonction MagnetoEvénement : le bouton qui avait été associé au lancement du magnétophone est dissocié.l'appe
+PalmAjoute	3059016	Palm Pilot	Ajoute un enregistrement dans une des bases de données du Palm Pilot (bloc-notes, liste des tâches, carnet d'adresses ou agenda).
+PalmCharge	3059008	Palm Pilot	Initialise un accès à une base de données PALM.
+PalmDésinstalle	3059014	Palm Pilot	Permet de revenir à la configuration originale du Palm Pilot (HotSync.EXE).
+PalmEnDehors	3059012	Palm Pilot	Permet de savoir si l'enregistrement d'une base de données PALM sur lequel on veut se positionner est en dehors du fichier PALM ou du filtre.
+PalmFerme	3059011	Palm Pilot	Ferme un accès à une des bases de données du Palm Pilot (Bloc-notes, liste des tâches, carnet d'adresses ou agenda).
+PalmFiltre	3059010	Palm Pilot	Filtre les enregistrements d'un accès à une des bases de données du Palm Pilot (Bloc-notes, liste des tâches, carnet d'adresses ou agenda).
+PalmInstalle	3059007	Palm Pilot	Configure automatiquement le programme Palm Pilot (HotSync.EXE) pour permettre une communication avec une application réalisée en WLangage.
+PalmListeCatégorie	3059019	Palm Pilot	Liste les différentes catégories utilisables pour l'accès en cours.
+PalmListeUtilisateurs	3059004	Palm Pilot	Liste les différents utilisateurs du Palm Pilot définis par le programme HOTSYNC.EXE.
+PalmLit	3059030	Palm Pilot	Lit les différentes informations concernant l'enregistrement en cours d'un accès à une base de données du Palm Pilot.
+PalmLitDernier	3059015	Palm Pilot	Positionne et lit le dernier enregistrement de l'accès spécifié.
+PalmLitPrécédent	3059022	Palm Pilot	Positionne et lit l'enregistrement précédent de l'accès spécifié.
+PalmLitPremier	3059020	Palm Pilot	Positionne et lit le premier enregistrement de l'accès spécifié.
+PalmLitSuivant	3059023	Palm Pilot	Positionne et lit l'enregistrement suivant de l'accès spécifié.
+PalmModifie	3059018	Palm Pilot	Modifie l'enregistrement en cours.
+PalmNbEnr	3059017	Palm Pilot	Renvoie le nombre d'enregistrements d'un accès spécifique à une base de données PALM.
+PalmPositionne	3059021	Palm Pilot	Positionne et lit l'enregistrement identifié par sa position dans l'accès spécifié.
+PalmRafraîchit	3059025	Palm Pilot	Met à jour les différents accès en cours à une base de données PALM, en fonction des dernières modifications effectuées sur cette base (ajout, suppres
+PalmRAZ	3059026	Palm Pilot	Ré-initialise la structure PALM.
+PalmReset	3059024	Palm Pilot	Ré-initialise la configuration du programme Palm Pilot (HotSync.EXE) en cas de problème.
+PalmSupprime	3059027	Palm Pilot	Supprime l'enregistrement en cours dans une vue des enregistrements d'une base de données du Palm (créée avec PalmCharge).
+PalmVersChaîne	3059028	Palm Pilot	Lit un enregistrement (mémo) de la base de données Bloc-Notes du Palm Pilot sous forme d'une chaîne de caractères.
+SIMEcrit	3067001	gestion des cartes SIM	Écrit ou modifie une entrée dans le répertoire de la carte SIM.
+SIMLit	3067006	gestion des cartes SIM	Lit une entrée dans le répertoire de la carte SIM.
+SIMNbContact	3067003	gestion des cartes SIM	Renvoie le nombre d'entrées présentes dans le répertoire de la carte SIM.
+SIMSupprime	3067005	gestion des cartes SIM	Supprime une entrée dans le répertoire de la carte SIM.
+SysListeOrientationEcran	3073030	Système	Permet de connaître les orientations possibles de l'écran d'un Terminal Mobile (Pocket PC).
+TableTri	3074018	Table	La fonction TableTri est conservée uniquement pour compatibilité .
+telChangeParamètrePériphérique	1000017292	Téléphone	Modifie les paramètres d'un périphérique de téléphonie.
+telParamètrePériphérique	1000017245	Téléphone	Lit la valeur d'un des paramètres d'un périphérique de téléphonie.
+< Variable Connexion>.ModifiePropriétéFichier	1000022718		
+ZoneRépétéeTri	3083011	Zones répétées	La fonction ZoneRépétéeTri est conservée uniquement pour compatibilité.

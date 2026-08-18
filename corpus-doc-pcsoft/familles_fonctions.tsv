@@ -1,0 +1,355 @@
+id	titre	v25	v2026
+9000054	Fonctions WLangage disponibles ou non en PHP	1	1
+1011014	Fonctions du WLangage utilisables dans un état	1	1
+2034012	Fonctions SQL permettant de gérer les données spatiales	0	1
+2034005	Fonctions SQL utilisables dans les requêtes SQL	1	1
+2034002	Fonctions mathématiques SQL	1	1
+75130327	Fonctions Objet	1	1
+1000019637	Fonctions non disponibles	0	1
+1000022683	Fonctions Action	1	1
+1000021603	Fonctions Action Bar	1	1
+1000026264	Fonctions Affichage HTML	0	1
+1000026323	Fonctions de gestion des champs d'affichage HTML (syntaxe préfixée)	0	1
+1000019021	Fonctions Agenda	1	1
+1000022884	Fonctions de gestion des champs Agenda (syntaxe préfixée)	1	1
+3017004	Fonctions Animation	1	1
+3018025	Fonctions Arbre	1	1
+1000023876	Fonctions de gestion des champs Arbre (syntaxe préfixée)	1	1
+1000022617	Fonctions Bandeau défilant	1	1
+1000022632	Fonctions Bandeau défilant (syntaxe préfixée)	1	1
+3020002	Fonctions Barre d'outils	1	1
+3020009	Fonctions de gestion des champs Barre d'outils (syntaxe préfixée)	1	1
+1410090900	Fonctions Bouton segmenté	0	1
+1410090908	Fonctions Bouton segmenté (syntaxe préfixée)	0	1
+1000015008	Fonctions Calendrier	1	1
+1000017392	Fonctions Calendrier (syntaxe préfixée)	1	1
+1410086597	Fonctions Caméra	1	1
+1000019955	Fonctions Carte	1	1
+1000022419	Fonctions de gestion du champ Carte (syntaxe préfixée)	1	1
+1410091377	Fonctions Chat IA	0	1
+1410086777	Fonctions Chat IA (syntaxe préfixée)	0	1
+3083021	Fonctions Chemin de navigation	1	1
+3083039	Fonctions de gestion des chemins de navigation (syntaxe préfixée)	1	1
+3026002	Fonctions Combos	1	1
+3026006	Fonctions de manipulation des champs Combo (syntaxe préfixée)	1	1
+3030011	Fonctions Drag and Drop	1	1
+1000026295	Fonctions Editeur HTML	0	1
+1000026310	Fonctions de gestion du champ Editeur HTML (syntaxe préfixée)	0	1
+1000023383	Fonctions Editeur d'images et variables WDPic	1	1
+1000023434	Fonctions de gestion du champ Editeur d'images et des variables WDPic (syntaxe préfixée)	1	1
+1410090410	Fonctions Editeur de code	0	1
+1410090424	Fonctions de gestion du champ Editeur de code (syntaxe préfixée)	0	1
+1410088562	Fonctions Editeur de diagrammes	0	1
+1410089917	Fonctions de gestion des diagrammes (syntaxe préfixée)	0	1
+1000022109	Fonctions FAA (Fonctionnalités Automatiques de l'Application)	1	1
+1000020589	Fonctions Fenêtres internes	1	1
+1000021854	Fonctions Fenêtres manipulables par l'utilisateur final	1	1
+1000022336	Fonctions de manipulation de l'UI par l'utilisateur final (syntaxe préfixée)	0	1
+3039004	Fonctions Flux	1	1
+1000020914	Fonctions Gantt	1	1
+1000021141	Fonctions Gantt (syntaxe préfixée)	0	1
+1410087383	Fonctions Grille	0	1
+1410087421	Fonctions de manipulation des champs Grille (syntaxe préfixée)	0	1
+3041006	Fonctions Groupware utilisateur	1	1
+1000020613	Fonctions Interrupteur	1	1
+1000021310	Fonctions de gestion des champs Interrupteur (syntaxe préfixée)	1	1
+1410089375	Fonctions Kanban	0	1
+1410089740	Fonctions de gestion des champs Kanban (syntaxe préfixée)	0	1
+1000023466	Fonctions Lecteur PDF	1	1
+1000023877	Fonctions de gestion du champ Lecteur PDF (syntaxe préfixée)	1	1
+3049001	Fonctions Liste	1	1
+1000017419	Fonctions de gestion des champs Liste, Liste image et Combo (syntaxe préfixée)	1	1
+9000017	Fonctions MCU	1	1
+3052003	Fonctions MDI	1	1
+3052008	Fonctions MDI (syntaxe préfixée)	1	1
+1000024887	Fonctions Masque	0	1
+3038016	Fonctions Menu	1	1
+1000020631	Fonctions de gestion des menus (syntaxe préfixée)	1	1
+3054007	Fonctions Multilingue	1	1
+1000015005	Fonctions Multimédia	1	1
+1000020097	Fonctions multimédia (syntaxe préfixée)	1	1
+1000022398	Fonctions Notes repositionnables	1	1
+1000021391	Fonctions Onglet	1	1
+1000021709	Fonctions de gestion des champs Onglet (syntaxe préfixée)	1	1
+1000019817	Fonctions Organigramme	1	1
+1000019986	Fonctions de gestion des champs Organigramme (syntaxe préfixée)	1	1
+1410090991	Fonctions Palette	0	1
+1410091008	Fonctions Palette (syntaxe préfixée)	0	1
+1000024151	Fonctions Panneau dockable	1	1
+1000009002	Fonctions Pilote	1	1
+1000019435	Fonctions Planning	1	1
+1000022917	Fonctions de gestion des champs Planning (syntaxe préfixée)	1	1
+3025034	Fonctions RTF	1	1
+1000020137	Fonctions Ruban	1	1
+1000020616	Fonctions Sélecteur	1	1
+1000021190	Fonctions de gestion des champs Sélecteur (syntaxe préfixée)	1	1
+3074009	Fonctions Table	1	1
+1000024319	Fonctions de gestion des champs Table (syntaxe préfixée)	1	1
+1000010002	Fonctions Table hiérarchique	1	1
+1000021941	Fonctions de gestion des champs Table hiérarchique (syntaxe préfixée)	1	1
+1000020704	Fonctions Tableau croisé dynamique	1	1
+1000022194	Fonctions de gestion des champs Tableau croisé dynamique (syntaxe préfixée)	1	1
+1000021048	Fonctions Tableau de bord	1	1
+1000022537	Fonctions de gestion des champs Tableau de bord (syntaxe préfixée)	1	1
+1000021433	Fonctions Tableur	1	1
+1000023883	Fonctions Tableur (syntaxe préfixée)	1	1
+1000020621	Fonctions TimeLine	1	1
+1000020783	Fonctions de gestion des champs TimeLine (syntaxe préfixée)	1	1
+1000022618	Fonctions Traitement de texte	1	1
+1000024544	Fonctions de gestion du champ Traitement de texte (syntaxe préfixée)	1	1
+1000018995	Fonctions TreeMap	1	1
+1000019801	Fonctions de gestion des champs TreeMap (syntaxe préfixée)	1	1
+1000015003	Fonctions XAML	1	1
+1000015011	Fonctions Xaml (syntaxe préfixée)	1	1
+1000020215	Fonctions Zone multiligne	1	1
+1000020220	Fonctions de gestion des champs Zone multiligne (syntaxe préfixée)	1	1
+3083007	Fonctions Zones répétées	1	1
+1000023945	Fonctions de gestion des champs Zone répétée (syntaxe préfixée)	1	1
+3029033	Fonctions de dessin	1	1
+1000024243	Fonctions de dessin et de traitement des images (syntaxe préfixée)	1	1
+3029028	Fonctions de manipulation de chaînes graphiques	1	1
+1000024067	Fonctions de gestion de la saisie assistée	1	1
+1000024068	Fonctions de gestion de la saisie assistée (syntaxe préfixée)	1	1
+1000026255	Fonctions de gestion de la saisie invalide	0	1
+3025007	Fonctions de gestion des champs	1	1
+3038012	Fonctions de gestion des fenêtres	1	1
+1410088865	Fonctions de gestion des fenêtres (syntaxe préfixée)	0	1
+3042003	Fonctions de gestion des graphes	1	1
+1000024173	Fonctions de gestion des graphes (syntaxe préfixée)	1	1
+1000024042	Fonctions de gestion des jetons	1	1
+1000024048	Fonctions de gestion des jetons (syntaxe préfixée)	1	1
+1000022793	Fonctions de gestion des ruptures	1	1
+1000020865	Fonctions de recherche	1	1
+3079003	Fonctions vidéo	1	1
+1000022386	Fonctions Caméra/Vidéo (syntaxe préfixée)	1	1
+1000017173	Fonctions Bluetooth	1	1
+1000026326	Fonctions de gestion de la double authentification	0	1
+1000022162	Fonctions BTLE	1	1
+1000022224	Fonctions BTLE (syntaxe préfixée)	1	1
+1000023427	Fonctions Beacon	1	1
+1000006110	Fonctions Contact (Lotus Notes ou Android/iPhone/iPad)	1	1
+1000020966	Fonctions DLNA/UPnP	1	1
+1000021000	Fonctions DLNA / UPnP (syntaxe préfixée)	1	1
+1000019406	Fonctions DNS	1	1
+3031013	Fonctions Dotnet	1	1
+1410090344	Fonctions Drive	0	1
+1410090371	Fonctions de gestion des drives : OneDrive, Google Drive, Dropbox (syntaxe préfixée)	0	1
+3040004	Fonctions FTP	1	1
+1410091142	Fonctions FTP Standard (syntaxe préfixée)	0	1
+1000021888	Fonctions Facebook	1	1
+1000021947	Fonctions Facebook (syntaxe préfixée)	1	1
+1000017389	Fonctions Flux RSS	1	1
+1000017564	Fonctions de gestion des agendas Google	1	1
+1000017751	Fonctions de gestion des agendas Google (syntaxe préfixée)	1	1
+1000017565	Fonctions de gestion des contacts Google	1	1
+1000017760	Fonctions de gestion des contacts Google (syntaxe préfixée)	1	1
+1000017380	Fonctions de gestion des documents Google	1	1
+1000020438	Fonctions de gestion des documents Google (syntaxe préfixée)	1	1
+1000017566	Fonctions de gestion des cartes Google	1	1
+1410087374	Fonctions GraphQL	0	1
+3043004	Fonctions HTTP	1	1
+1000021665	Fonctions HTTP (syntaxe préfixée)	1	1
+3047002	Fonctions J2EE	1	1
+3032118	Fonctions LDAP	1	1
+1000008119	Fonctions Groupes	1	1
+1000005117	Fonctions Notes	1	1
+1000012009	Fonctions Tâches	1	1
+1000023078	Fonctions MQTT	1	1
+1000023098	Fonctions MQTT (syntaxe préfixée)	1	1
+1000025953	Fonctions Modbus	0	1
+1000026091	Fonctions Modbus (syntaxe préfixée)	0	1
+1000020421	Fonctions NFC	1	1
+3056009	Fonctions Net	1	1
+1000017175	Fonctions OBEX	1	1
+3057007	Fonctions OLE	1	1
+1000011009	Fonctions RendezVous (Lotus Notes/Android/iOS)	1	1
+1000017183	Fonctions SAP	1	1
+1410089311	Fonctions SCP	0	1
+1000021159	Fonctions SSH	1	1
+1000021168	Fonctions SSH (syntaxe préfixée)	1	1
+1000019027	Fonctions SaaS	1	1
+1000018464	Fonctions SalesForce	1	1
+1000018783	Fonctions Salesforce (syntaxe préfixée)	1	1
+3076005	Fonctions Téléphone	1	1
+1000019653	Fonctions Webservices	1	1
+1000019437	Fonctions WiFi	1	1
+1000021363	Fonctions d'accès à MATLAB	1	1
+1000003107	Fonctions domotique	1	1
+3032034	Fonctions de gestion des emails	1	1
+1000022311	Fonctions de gestion des emails (syntaxe préfixée)	1	1
+3037003	Fonctions Fax	1	1
+1000023575	Fonctions de gestion des protocoles OAuth et OpenID	1	1
+1000023630	Fonctions de gestion des protocoles OAuth et OpenID (syntaxe préfixée)	1	1
+3069006	Fonctions SOAP	1	1
+1000023951	Fonctions SOAP (syntaxe préfixée)	1	1
+3070007	Fonctions de gestion des sockets	1	1
+1000026066	Fonctions WebSocket	0	1
+1000026141	Fonctions WebSocket (syntaxe préfixée)	0	1
+1000021034	Fonctions Achats In-App	1	1
+1410090380	Fonctions Action rapide	0	1
+1410090388	Fonctions de gestion des raccourcis d'application (app shortcuts)  (syntaxe préfixée)	0	1
+1000020192	Fonctions Album	1	1
+1000022159	Fonctions Apple Watch	1	1
+1000019370	Fonctions Capteur	1	1
+1000024431	Fonctions Kiosque	0	1
+1410087602	Fonctions Permission	0	1
+3068004	Fonctions SMS	1	1
+1000020190	Fonctions Synthèse Vocale	1	1
+1410087338	Fonctions Téléchargement	0	1
+1000024262	Fonctions URI	1	1
+1000020650	Fonctions Widget	1	1
+1410087601	Fonctions Widget	0	1
+1000023472	Fonctions de gestion des tâches en arrière-plan	1	1
+1000019476	Fonctions de gestion du téléphone	1	1
+1410090597	Fonctions de gestion du téléphone (syntaxe préfixée)	0	1
+1410090833	Fonctions de partage de proximité	0	1
+1410088863	Fonctions iCloud	0	1
+1000019756	Fonctions multi-touch	1	1
+3055116	Fonctions Ajax	1	1
+1000019467	Fonctions Captcha	1	1
+1000019584	Fonctions Captcha (syntaxe préfixée)	1	1
+1000022373	Fonctions Google Analytics	1	1
+1000019452	Fonctions Image	1	1
+1000023882	Fonctions de gestion des images (syntaxe préfixée)	1	1
+1410091358	Fonctions de gestion des utilisateurs sur le serveur d'authentification OAuth WEBDEV	0	1
+1000019464	Fonctions Stockage Local	1	1
+1000019541	Fonctions de gestion des jauges	1	1
+3058001	Fonctions de gestion des pages	1	1
+1000021657	Fonctions de gestion des pages (syntaxe préfixée)	1	1
+1000022790	Fonctions de gestion des tâches planifiées WEBDEV	1	1
+3055002	Fonctions de gestion du navigateur	1	1
+1410089709	Fonctions de pilotage du Serveur d'application WEBDEV	0	1
+1410089903	Fonctions de pilotage du Serveur d'application WEBDEV (syntaxe préfixée)	0	1
+3012026	Fonctions diverses WEBDEV	1	1
+1000018815	Fonctions upload	1	1
+1000019077	Fonctions Upload (syntaxe préfixée)	1	1
+1000007115	Fonctions Hash	1	1
+1410088152	Fonctions Intelligence Artificielle (IA)	0	1
+1000025950	Fonctions OCR	0	1
+1000015007	Fonctions PDF	1	1
+1410089902	Fonctions de gestion des fichiers PDF (syntaxe préfixée)	0	1
+1000017117	Fonctions Service	1	1
+1000013002	Fonctions Test	1	1
+1410086589	Fonctions Télémétrie	1	1
+1410090317	Fonctions Visite guidée	0	1
+3046065	Fonctions d'impression	1	1
+1410090033	Fonctions d'impression (syntaxe préfixée)	0	1
+1000022263	Fonctions de cryptage/compression	1	1
+1410087290	Fonctions de cryptage / compression (syntaxe préfixée)	0	1
+3065004	Fonctions Base de registre	1	1
+1410090347	Fonctions BitcoinCore	0	1
+3021014	Fonctions Boîtes de dialogue	1	1
+1000019558	Fonctions Code-Barres	1	1
+1410090746	Fonctions Commande	0	1
+1410090797	Fonctions de gestion de l'exécution des commandes en mode console (syntaxe préfixée)	0	1
+1000024070	Fonctions Console	1	1
+1000017165	Fonctions Corbeille	1	1
+1000019020	Fonctions Correcteur orthographique	1	1
+3028018	Fonctions DDE	1	1
+3091004	Fonctions EXIF	1	1
+3015002	Fonctions Evénements Windows	1	1
+3035005	Fonctions Exécutables	1	1
+1000019544	Fonctions Fabrique logicielle	1	1
+3061015	Fonctions Graveur de CD et DVD	1	1
+3048002	Fonctions Java	1	1
+3051010	Fonctions MCI	1	1
+1000017259	Fonctions Mises à jour d'applications	1	1
+1410088027	Fonctions Notifications système	0	1
+1410088026	Fonctions de gestion des notifications interactives	0	1
+1000024945	Fonctions Pays et Continents	1	1
+3089015	Fonctions Planificateur Windows	1	1
+3062003	Fonctions Ports série et parallèle	1	1
+3063001	Fonctions Presse-papiers	1	1
+3064003	Fonctions Projets	1	1
+1000017176	Fonctions Protocole SNMP	1	1
+1410088185	Fonctions Python	0	1
+1410088132	Fonctions Python	0	1
+3078001	Fonctions Périphériques Twain	1	1
+1000020067	Fonctions Reconnaissance Vocale	1	1
+3066001	Fonctions Réseaux	1	1
+3071009	Fonctions Souris	1	1
+3073010	Fonctions Système	1	1
+1000020723	Fonctions Tuile	1	1
+3090005	Fonctions USB	1	1
+3061100	Fonctions Verrou	1	1
+1410089156	Fonctions de gestion des identifiants administratifs	0	1
+3060001	Fonctions de gestion des polices	1	1
+1000004104	Fonctions de gestion des scanners	0	1
+1410087867	Fonctions de gestion des scanneurs (syntaxe préfixée)	0	1
+1000020633	Fonctions de gestion des toasts	1	1
+3013036	Fonctions diverses WINDEV	1	1
+3014011	Fonctions diverses Windows	1	1
+3033010	Fonctions de gestion de l'Euro	1	1
+1000004103	Fonctions de gestion des CD et DVD	1	1
+3034017	Fonctions de gestion des Exceptions	1	1
+3082006	Fonctions de gestion des archives	1	1
+1000019157	Fonctions d'archivage (gestion des ZIP, WDZ, CAB, RAR, 7z, TAR, gzip, ...) (syntaxe préfixée)	1	1
+1000019302	Fonctions de gestion des certificats	1	1
+1410087289	Fonctions de gestion des certificats (syntaxe préfixée)	0	1
+3024015	Fonctions de gestion des chaînes	1	1
+1410089916	Fonctions de gestion des chaînes de caractères (syntaxe préfixée)	0	1
+1000018999	Fonctions de gestion des clés HASP	1	1
+1000018998	Fonctions de gestion des clés d'activation	1	1
+1000020867	Fonctions de gestion des combinaisons et des énumérations	1	1
+3027029	Fonctions de gestion des dates et des heures	1	1
+1000023943	Fonctions de gestion des Dates et des Heures (syntaxe préfixée)	1	1
+1000026303	Fonctions de gestion des fichiers HTML	0	1
+1000026324	Fonctions de gestion des documents HTML (syntaxe préfixée)	0	1
+3080009	Fonctions de gestion des fichiers XLS	1	1
+1000021513	Fonctions de gestion des fichiers XLS (syntaxe préfixée)	1	1
+3081005	Fonctions de gestion des fichiers XML	1	1
+1000023896	Fonctions XML (syntaxe préfixée)	1	1
+3036034	Fonctions de gestion des fichiers externes	1	1
+1410089370	Fonctions de gestion des répertoires et des fichiers externes (syntaxe préfixée)	0	1
+3075006	Fonctions Tableau	1	1
+1000024323	Fonctions de gestion des tableaux (syntaxe préfixée)	1	1
+1000018307	Fonctions de gestion des files, piles, listes	1	1
+1000019655	Fonctions de gestion des files, des piles et des listes (syntaxe préfixée)	1	1
+3050016	Fonctions Mathématiques	1	1
+3050051	Fonctions Matrice	1	1
+3050027	Fonctions Statistiques	1	1
+3050012	Fonctions de gestion des valeurs Binaires	1	1
+3050054	Fonctions financières	1	1
+1000018927	Fonctions de gestion des zones de mémoire partagées	1	1
+3077003	Fonctions de gestion des threads	1	1
+1000024386	Fonctions de gestion des threads (syntaxe préfixée)	1	1
+1000021300	Fonctions de gestion des tâches parallèles	1	1
+1000021606	Fonctions de gestion des tâches parallèles (syntaxe préfixée)	1	1
+3053001	Fonctions de gestion des zones mémoires	1	1
+3014025	Fonctions de gestion du débogage	1	1
+1410091296	Fonctions de gestion du format JSON	0	1
+1000019192	Fonctions de géolocalisation	1	1
+1000023435	Fonctions Memcached	1	1
+1410086588	Fonctions HBase	1	1
+1000024142	Fonctions de gestion d'une base Big Data Redis	1	1
+1410088287	Fonctions de gestion d'une base Big Data Redis (syntaxe préfixée)	0	1
+1000022442	Fonctions MongoDB	1	1
+1000023897	Fonctions MongoDB (syntaxe préfixée)	1	1
+1000021978	Fonctions HDFS	1	1
+1000021989	Fonctions HDFS (syntaxe préfixée)	1	1
+3072002	Fonctions SQL	1	1
+3072014	Fonctions SQL : Cas particulier	1	1
+3044156	Fonctions HFSQL	1	1
+1000025085	Fonctions de gestion HFSQL (syntaxe préfixée)	0	1
+3044316	Fonctions HFSQL Client/Serveur	1	1
+1000025031	Fonctions de gestion de HFSQL Client/Serveur (syntaxe préfixée)	0	1
+3044145	Fonctions Hyper File compatibles	1	1
+1000017408	Fonctions de liaison	1	1
+1000021394	Fonctions de liaison (syntaxe préfixée)	1	1
+1000017222	Fonctions WLangage	1	1
+1410090435	Fonctions de gestion des données spatiales	0	1
+1410090595	Fonctions de gestion des données spatiales (syntaxe préfixée)	0	1
+1000019033	Fonctions WLangage	1	1
+1000014002	Fonctions Magneto	1	0
+1000017681	Fonctions de gestion des comptes AdWords	1	0
+1000017708	Fonctions du service "InfoService"	1	0
+1000017689	Fonctions Google AdWords	1	0
+1000018572	Fonctions de gestion des albums Picasa (syntaxe objet)	1	0
+1000017376	Fonctions de gestion des albums Picasa	1	0
+3059005	Fonctions Palm Pilot	1	0
+3055010	Fonctions de gestion des gadgets Vista	1	0
+3023048	Fonctions d'accès aux Terminaux Mobiles (Pocket PC)	1	0
+3016005	Fonctions Agent	1	0
+3071012	Fonctions de gestion du clavier du Terminal Mobile (Pocket PC)	1	0
+3067002	Fonctions de gestion des cartes SIM	1	0
+3023028	Fonctions de manipulation d'une base CEDB	1	0
