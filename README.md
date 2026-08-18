@@ -59,3 +59,13 @@ qui lève `ElementNotEnabled`, coller par presse-papier).
 
 Le **script `.py` de pilotage** lui-même : il tourne sur le poste Windows de
 Patrick (là où est `WDExpress.exe`), pas sur le VPS. À ajouter depuis le poste.
+
+## Pour un agent (opencode, IA agentique)
+
+Commence par **`AGENTS.md`** (chargé automatiquement par opencode) : la règle,
+les données, les outils. Puis `00-DEMARRAGE-IA.md` pour le pas-à-pas.
+
+Outils déterministes dans `outils/` :
+- `outils/chercher-fonction.sh <nom>` — id + présence v25/v2026 + URL de doc.
+- `outils/verifier-fonctions.py <code.wl>` — liste les appels absents du
+  catalogue (garde-fou anti-invention).
