@@ -37,6 +37,36 @@ sont PAS au catalogue. Un nom inconnu est soit une fonction inventée (à
 corriger), soit une de TES procédures locales (normal). À toi de trancher, nom
 par nom.
 
+## Quand tu pilotes l'editeur (la souris de Patrick)
+
+Le poste n'a qu'**un seul curseur**. Si tu prends la souris, Patrick ne peut
+plus travailler — et son geste a lui casse ta sequence.
+
+**La regle qui decide de tout :** en pywinauto, les methodes **sans** `_input`
+parlent a la fenetre (la souris reste libre) ; celles **avec** `_input`
+bougent le vrai materiel (elles confisquent le poste).
+
+    bouton.click()          # parle a la fenetre — souris libre
+    bouton.click_input()    # bouge la VRAIE souris — confisque le poste
+    champ.set_text("x")     # ecrit dans le controle — clavier libre
+    champ.type_keys("x")    # tape sur le VRAI clavier — confisque le poste
+
+Une seule ligne fautive suffit. Un script qui se tient bien pendant vingt
+gestes puis vole la souris au vingt-et-unieme : cherche les `_input`.
+
+Ce qui repond sans souris : `Button`, `Edit`, `Static`, `ComboBox`,
+`ListBox`, et les raccourcis clavier (F9, F12, Ctrl+S, F2).
+Ce qui ne repondra JAMAIS : les `WinDevObject`, la zone de conception, les
+assistants, les menus du haut — WinDev les dessine lui-meme, il n'y a rien a
+qui parler. Ces gestes-la demandent une session separee.
+
+**Consequence pratique :** la boucle ecrire -> compiler -> lire les erreurs ->
+corriger tient entierement sans la souris. Seule la creation des fenetres la
+reclame — que Patrick fasse cette coquille a la main, puis reste chez toi.
+
+Detail complet, tableau geste par geste et controle a lancer :
+`05-piloter-sans-monopoliser-la-souris.md`.
+
 ## Comment tu marques ce que tu livres
 
 - `[établi]` — vérifié au catalogue ou sur une page de doc.
@@ -64,6 +94,8 @@ tant qu'il n'a pas été relu dans le code réel du projet.
 - `03-interface-editeur-windev.md` — carte de l'éditeur (volets, champs,
   raccourcis) pour piloter l'IDE à pywinauto.
 - `04-tester-en-windev-25.md` — comment tester (`dbg*`, `Test*`).
+- `05-piloter-sans-monopoliser-la-souris.md` — piloter l'IDE **sans prendre
+  la souris de Patrick** : ce qui se fait sans elle, ce qui ne se fera jamais.
 - `corpus-doc-pcsoft/` — les catalogues (nom, id, thème, v25, v2026).
 - `moteur-windev.sh` — le moteur de l'atelier (contrat : consigne sur l'entrée,
   compte rendu sur la sortie, code 0 = réussi).

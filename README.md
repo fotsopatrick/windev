@@ -22,6 +22,12 @@ dans la fenêtre de code **et** fenêtre fabriquée à la palette de champs.
    coller le code. La carte des capacités de l'éditeur est dans
    `03-interface-editeur-windev.md`.
 
+   **Sans confisquer la souris de Patrick** : les méthodes pywinauto **sans**
+   `_input` parlent à la fenêtre et laissent le poste libre ; celles **avec**
+   `_input` bougent le vrai matériel. La boucle écrire → compiler → lire les
+   erreurs → corriger tient entièrement sans la souris ; seule la création des
+   fenêtres la réclame. Voir `05-piloter-sans-monopoliser-la-souris.md`.
+
 ## La méthode validée le 07/08 (six gestes)
 
 1. Le moteur `windev` génère le module de procédures, tout vérifié au corpus.
